@@ -26,6 +26,7 @@ flexibility, accessibility, and user-efficiency while promoting collaboration in
 medium that is equally accessible regardless of the platform being used.
 
 
+This project was officially started on October 20, 2017.
 
 - Nicholas Yamamoto, Founder and CEO
 
